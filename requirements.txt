@@ -1,0 +1,6 @@
+apache-airflow[postgres]==2.9.0
+apache-airflow-providers-amazon==8.26.0
+pendulum==3.0.0
+numpy==2.0.1
+pandas==2.2.2
+s3fs==2024.6.1
