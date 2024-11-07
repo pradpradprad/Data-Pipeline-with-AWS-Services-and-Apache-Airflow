@@ -1,0 +1,11 @@
+staff_key,staff_id,first_name,last_name,email,phone,manager_id,eff_date,exp_date,active_flag
+65,3,Genna,Serrano,genna.serrano@bikes.shop,(831) 555-5556,2,2016-01-01,9999-12-31,Y
+68,10,Bernardine,Houston,bernardine.houston@bikes.shop,(972) 530-5557,7,2016-01-01,9999-12-31,Y
+66,1,Fabiola,Jackson,fabiola.jackson@bikes.shop,(831) 555-5554,1,2016-01-01,9999-12-31,Y
+67,8,Kali,Vargas,kali.vargas@bikes.shop,(972) 530-5555,1,2016-01-01,9999-12-31,Y
+195,9,Layla,Terrell,layla.terrell@bikes.shop,(972) 530-5556,7,2016-01-01,9999-12-31,Y
+4,7,Venita,Daniel,venita.daniel@bikes.shop,(516) 379-4446,5,2016-01-01,9999-12-31,Y
+3,2,Mireya,Copeland,mireya.copeland@bikes.shop,(831) 555-5555,1,2016-01-01,9999-12-31,Y
+193,6,Marcelene,Boyer,marcelene.boyer@bikes.shop,(516) 379-4445,5,2016-01-01,9999-12-31,Y
+132,4,Virgie,Wiggins,virgie.wiggins@bikes.shop,(831) 555-5557,2,2016-01-01,9999-12-31,Y
+131,5,Jannette,David,jannette.david@bikes.shop,(516) 379-4444,1,2016-01-01,9999-12-31,Y
