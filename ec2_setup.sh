@@ -136,3 +136,10 @@ airflow variables set processed_bucket_name <processed-bucket>  # your processed
 airflow variables set log_bucket_name <log-bucket>              # your log bucket name
 airflow variables set emr_runtime_role_arn <emr-role-arn>       # your EMR runtime role ARN
 airflow variables set redshift_role_arn <redshift-role-arn>     # your Redshift role ARN
+
+
+# start airflow
+# -------------
+
+airflow webserver   # to start web server
+airflow scheduler   # to start scheduler
