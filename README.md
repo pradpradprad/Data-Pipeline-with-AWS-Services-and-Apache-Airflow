@@ -4,17 +4,17 @@ This project leverages fundamental knowledge learned from various data engineeri
 
 ## 📑 Table of Contents
 
-- [✨ Overview](#overview)
+- [✨ Overview](#-overview)
 
-- [🏗️ Architecture](#architecture)
+- [🏗️ Architecture](#%EF%B8%8F-architecture)
 
-- [🗂️ Data Model](#data-model)
+- [🗂️ Data Model](#%EF%B8%8F-data-model)
 
-- [🌟 Airflow DAG](#airflow-dag)
+- [🌟 Airflow DAG](#-airflow-dag)
 
-- [⚙️ Setup](#setup)
+- [⚙️ Setup](#%EF%B8%8F-setup)
 
-- [📊 Dashboard Summary](#dashboard-summary)
+- [📊 Dashboard Summary](#-dashboard-summary)
 
 ## ✨ Overview
 
